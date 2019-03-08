@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3813fe91-3350-4a80-9de1-22c26ff8ea50" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ac/za/cput/project/TaxPayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/za/cput/project/TaxPayer.java" afterDir="false" />
-    </list>
+    <list default="true" id="3813fe91-3350-4a80-9de1-22c26ff8ea50" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -155,6 +151,11 @@
             <path>
               <item name="myproject2" type="b2602c69:ProjectViewProjectNode" />
               <item name="myproject2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myproject2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myproject2" type="462c0819:PsiDirectoryNode" />
+              <item name="number3.1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -377,7 +378,7 @@
       <workItem from="1551534434799" duration="11234000" />
       <workItem from="1551689036660" duration="67000" />
       <workItem from="1551717237653" duration="479000" />
-      <workItem from="1552051819809" duration="4866000" />
+      <workItem from="1552051819809" duration="6066000" />
     </task>
     <servers />
   </component>
@@ -402,10 +403,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16579000" />
+    <option name="totallyTimeSpent" value="17779000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -422,7 +423,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3294893" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
